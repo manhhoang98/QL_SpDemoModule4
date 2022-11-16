@@ -19,11 +19,11 @@
             </tr>
             <tr>
                 <td>Nhập đường dẫn ảnh</td>
-                <td><input name="img" placeholder="Nhập đường dẫn ảnh" value="${product.img}"></td>
+                <td><input name="img" placeholder="Nhập img" value="${product.img}"></td>
             </tr>
             <tr>
                 <td>Nhập Giá</td>
-                <td><input name="price" placeholder="Nhập Giá" value="${product.price}"></td>
+                <td><input name="price" placeholder="Nhập price" value="${product.price}"></td>
             </tr>
 
         </table>
